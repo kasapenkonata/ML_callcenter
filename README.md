@@ -87,7 +87,8 @@
 ML_callcenter/
 ├─ README.md
 ├─ project.ipynb
-├─ data/
-│ ├─ train.csv
-│ ├─ test.csv
-│ └─ t1_webstat.csv
+└─ data/
+   ├─ train.csv
+   ├─ test.csv
+   └─ t1_webstat.csv
+
