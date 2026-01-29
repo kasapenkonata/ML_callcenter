@@ -84,6 +84,7 @@
 - Разделение на «первый/не первый заказ в сессии» улучшений не дало.
 
 ## Структура проекта
+```
 ML_callcenter/
 ├─ README.md
 ├─ project.ipynb
@@ -91,4 +92,6 @@ ML_callcenter/
    ├─ train.csv
    ├─ test.csv
    └─ t1_webstat.csv
+```
+
 
